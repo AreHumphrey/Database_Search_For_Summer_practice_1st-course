@@ -167,12 +167,9 @@ class MainWindow(QMainWindow):
 
             cursor.execute(query)
             results = cursor.fetchall()
-
-            # Очищаем QListWidget перед добавлением новых результатов
             self.results_list.clear()
 
             for book in results:
-                # Отображаем результаты в столбике с помощью QListWidget
                 item_text = '{} - {}'.format(book[0], book[1])
                 self.results_list.addItem(item_text)
 
