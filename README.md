@@ -13,14 +13,11 @@ _После установки_ **PyQt6** _вы можете запустить 
 <pre> python main.py </pre>
 # **_Интерфейс_**
 # **_Стартовое окно_**
-![image](https://github.com/AreHumphrey/Database_Search_For_Summer_practice_1st-course/assets/115383388/2769dfa6-f4cc-409d-acba-8f6cae7cc6db)
-#
-# **_Основное окно, содержащее функцию поиска и удаления_**
-![image](https://github.com/AreHumphrey/Database_Search_For_Summer_practice_1st-course/assets/115383388/1baad7b4-8911-45db-810c-46f45ba11a03)
-#
-# **_Окно для добавления информации в базу данных_**
-![image](https://github.com/AreHumphrey/Database_Search_For_Summer_practice_1st-course/assets/115383388/5f9b26fc-85bc-4860-b923-2c5f1a410f60)
-#
-# **_Окно со всей информацией_**
-![image](https://github.com/AreHumphrey/Database_Search_For_Summer_practice_1st-course/assets/115383388/217bd3f7-f051-4a2d-b8fe-b1ea48f9e6f3)
-#
+![image](https://github.com/AreHumphrey/Database_Search_For_Summer_practice_1st-course/assets/115383388/8a765ac7-076f-4237-accd-7562eee9539c)
+
+# **_Основное окно с функциями поиска и удаления информации базы данных_**
+![image](https://github.com/AreHumphrey/Database_Search_For_Summer_practice_1st-course/assets/115383388/0bf1f14f-6310-4951-879f-90e309106485)
+
+# **_Окно с добавлением информации в базу данных_**
+![image](https://github.com/AreHumphrey/Database_Search_For_Summer_practice_1st-course/assets/115383388/efb60608-91b1-4100-bb5a-8c89f54c182e)
+
